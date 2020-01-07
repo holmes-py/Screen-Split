@@ -1,5 +1,5 @@
 # Screen-Split
-Python code to split your Laptop screen to your android, therby sharing your screen and using your android phone/tablet as makeshift second Monitor.
+Python code to split your Laptop screen to your android, thereby sharing your screen and using your android phone/tablet as makeshift second Monitor.
 
 <b>This script is only for Operating systems which support android debugging (adb). e.g. Android.</b>
 

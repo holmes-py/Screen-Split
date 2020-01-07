@@ -21,5 +21,5 @@ Clone the repo to your local storage and Run the Script. <br/>
    `cd Screen-Split`<br/>
    `python3 splitv1.py`<br/>
    
-
+To Stop the Splitting, Simply Reboot the system.
    

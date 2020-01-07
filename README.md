@@ -4,6 +4,7 @@ Python code to split your Laptop screen to your android, thereby sharing your sc
 <b>This script is only for Operating systems which support android debugging (adb). e.g. Android.</b>
 
 # Requirements:
+-> <b><u>Make Sure Android is connected to laptop using USB and USB Debugging is turned on in settings.</u></b>
 1. Android Application for listening to port.
   Any VNC viewer will do. <br/>
   Recommended:<br/>
